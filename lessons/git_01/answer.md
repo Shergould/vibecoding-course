@@ -31,7 +31,7 @@ student/alice/git_01
 ```
 
 ```bash
-git switch -c student/alice/git_01
+git  -c student/alice/git_01
 ```
 
 ## Q3: 暂存 answer.md
